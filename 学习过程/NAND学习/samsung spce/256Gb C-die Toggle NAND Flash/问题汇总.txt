@@ -1,0 +1,26 @@
+SN        学习内容        
+1        SLC、MLC、TLC概念        
+2        Die、CE、LUN、Plane概念，以及之间包含关系        
+3        RB、VCC、VCCQ、CLE、ALE、CE的概念及作用        
+4        SDR、DDR概念        
+5        Word Line概念        
+6        tR、tCBSY等概念        
+7        Snap Read概念        
+8        Cache写、Cache读等概念        
+        Retry概念        
+9        擦写读操作的粒度        
+10        VCC、VCCQ的电压大小        
+11        Nand物理结构        
+12        原厂坏块如何识别        
+13        读FlashID命令        
+14        SLC/TLC如何互相切换        
+15        查Nand操作状态命令        
+16        单Plane擦写读命令以及操作流程        
+17        单Plane Copy-back概念以及操作流程        
+18        多Plane擦写读命令        
+19        多Plane Copy-back概念以及操作流程        
+20        Cache操作        
+21        Retry操作流程        
+22        SLC/TLC优缺对比        
+23        set/get feature        
+24        Row/Column与LUN、Plane、Blk、Page之间相互转换  
